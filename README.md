@@ -99,3 +99,10 @@ Sales-Analysis-SQL-Project/
 ├── EDA_and_Business_Questions.sql       # SQL queries for EDA & questions
 ├── Project_Questions.pdf (optional)     # Business questions answered
 
+
+## 📬 Contact
+
+**👤 Name:** Safa Ali  
+**📧 Email:** safazidann@ gmail.com  
+**🔗 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/safaali-data-analysis/)
+
